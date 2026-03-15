@@ -69,6 +69,7 @@ Download MySQL JDBC Driver and add it to the classpath.
 
 
 javac HotelManagement.java
+
 java HotelManagement
 
 ## 📚 What I Learned
