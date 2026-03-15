@@ -33,9 +33,9 @@ import java.util.Scanner;
 public class HotelReservationSystem1 {
     //we donts want the following credentials to be aceesible outside this class so we will be using private 
 
-    private static final String url = "jdbc:mysql://localhost:3306/hotel_db?useSSL=false&serverTimezone=UTC";
-    private static final String user = "root";
-    private static final String password = "root";
+  private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
+private static final String user = "your_mysql_username"; // add your MySQL username
+private static final String password = "your_mysql_password"; // add your MySQL password
 
     public static void main(String[] args) {
 
