@@ -45,7 +45,7 @@ Hotel-Management-System
 ### 1️⃣ Clone the repository
 
 
-git clone https://github.com/yourusername/hotel-management-system-jdbc.git
+git clone https://github.com/Tanushri014/hotel-management-system-jdbc.git
 
 
 ### 2️⃣ Setup Database
