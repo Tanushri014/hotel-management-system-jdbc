@@ -38,7 +38,10 @@ Hotel-Management-System
 └── README.md
 
 
----
+## Database Configuration
+
+Before running the project, update the following credentials in the code:
+
 
 ## 🛠️ Setup Instructions
 
